@@ -13,3 +13,4 @@ Info tambahan:
 Silahkan dibuat di demo server anda menggunakan WordPress dan Elementor. Jika sudah selesai silahkan kirimkan CV beserta link demo website sesuai instruksi diatas ke me@aguspri.com
 
 Good luck! :)
+ty
